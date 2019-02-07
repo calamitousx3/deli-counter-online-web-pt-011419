@@ -25,7 +25,6 @@ def now_serving(array)
   else 
     array.shift
   end
-  end 
 end 
 
 
